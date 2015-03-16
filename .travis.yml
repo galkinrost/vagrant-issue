@@ -1,4 +1,0 @@
-os:
-  - windows
-script:
-  - sudo vagrant up
